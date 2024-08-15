@@ -1,0 +1,21 @@
+
+h2{
+    text-align: center;
+}
+table {
+    width: 100%; 
+    border-collapse: collapse; 
+}
+
+th, td {
+    border:3px rgb(139, 101, 108)  ;
+    border-style: outset;
+    padding: 8px; 
+    text-align: center; 
+}
+
+th {
+    background-color: #7c6565; 
+    font-weight: bold; 
+}
+
