@@ -1,0 +1,19 @@
+
+.list-title {
+    font-weight: bold; 
+    font-style: italic; 
+    text-decoration: underline; 
+    color: blue; 
+}
+ul{
+    color: blue; 
+}
+.numbered-list {
+    color: red;
+}
+h2{
+    color: red;
+}
+.square-list {
+    list-style-type: square; 
+}
